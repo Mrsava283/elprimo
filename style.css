@@ -1,0 +1,23 @@
+header{
+    text-alingn:reght;
+    background-color:#000000; 
+    border: 10px solid #000000
+    }
+h1{
+    text-alingn: center;
+    color: darkblue;
+    }
+footer{
+    bkackgrount-color: #FFFFFF;
+    border: 10 px solid darkblue;
+    color:white;
+    
+    
+}
+body{
+    font-famely:sans-serif;
+}
+img{
+    widht:10 px;
+    height:10 px;
+}
